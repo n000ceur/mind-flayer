@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://media.giphy.com/media/fTs2BdzhDetPwvy3BE/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    color: #DF696C;
+    text-shadow: 0px 0px 10px black;
+}
+
+.hero {
+    margin-top: 310px;
+}
+
+#btn {
+    padding: 20px 40px;
+    font-size: 22px;
+    background-color: #09303C;
+    color: #DF696C;
+    border: none;
+    font-weight: bold;
+    font-family: inherit;
+    transition: 0.5s;
+    border-radius: 5px;
+    margin-top: 45px;
+}
+
+#underline {
+    border-bottom: 2px solid #DF696C;
+    font-family: Darksoul;
+}
+
+#btn:hover {
+    background-color: #DF696C; 
+    color: #09303C;
+    cursor: pointer;
+}
+
+.label {
+    background-color: #09303C; 
+    margin-top: 155px;
+    padding: 1px;
+    font-size: 25px;
+}
+
+.emphasis {
+    font-family: Darksoul;
+}
